@@ -41,5 +41,5 @@
                 "discoveryTopic": "str"
         }
     },
-    "image": "dariob/gosenseapp-pi"
+    "image": "dariob/gosenseapp"
 }
