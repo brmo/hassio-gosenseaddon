@@ -1,6 +1,6 @@
 {
     "name": "GoSense-MQTT bridge",
-    "version": "latest",
+    "version": ".1",
     "slug": "gosense",
     "description": "Discover and Publish Sense sensors over MQTT",
     "arch": [
@@ -40,5 +40,5 @@
                 "discoveryTopic": "str"
         }
     },
-    "image": "dariob/gosenseapp"
+    "image": "abdulsalamdocker/gosenseapp"
 }
