@@ -40,5 +40,5 @@
                 "discoveryTopic": "str"
         }
     },
-    "image": "abdulsalamdocker/gosenseapp"
+    "image": "darthmops/gosenseapp"
 }
