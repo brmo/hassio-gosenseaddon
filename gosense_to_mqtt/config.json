@@ -15,7 +15,6 @@
     "boot": "auto",
     "full_access": true,
     "host_network": true,
-    "map": ["config:rw", "ssl"],
     "environment" : { "CONFIG_FILE" : "/data/options.json" },
     "options": {
         "debuglevel": "info",
