@@ -1,6 +1,6 @@
 {
     "name": "GoSense-MQTT bridge",
-    "version": ".1",
+    "version": "latest",
     "slug": "gosense",
     "description": "Discover and Publish Sense sensors over MQTT",
     "arch": [
